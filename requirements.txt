@@ -1,0 +1,10 @@
+tqdm
+notebook
+openai
+elasticsearch<9.0.0
+pandas
+scikit-learn
+dotenv
+jupyter
+ipywidgets
+tiktoken
