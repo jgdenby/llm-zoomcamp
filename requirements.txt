@@ -8,3 +8,4 @@ dotenv
 jupyter
 ipywidgets
 tiktoken
+qdrant-client[fastembed]>=1.14.2
